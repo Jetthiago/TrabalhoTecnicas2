@@ -20,4 +20,4 @@ Abra o arquivo ```programa.py``` usando a IDLE e execute.
 
 ## Observações
 - Foi incluida uma versão já compilada na pasta ```dist```
-- O caminho para o ´´´py´´´ deve estar descrito no PATH do sistema se a opção da linha de comando for usada.
+- O caminho para o ```py``` deve estar descrito no PATH do sistema se a opção da linha de comando for usada.
